@@ -2,17 +2,11 @@
 
 Modern, animated SDDM login theme with glassmorphism design.
 
+## 📸 Preview
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/adam0307a/sddm-theme/main/Previews/sddm-theme.jpg" alt="Glassmorphic SDDM Theme" width="100%"/>
 </p>
-
----
-
-## 📸 Preview
-
-![Theme Screenshot](https://raw.githubusercontent.com/adam0307a/sddm-theme/main/Previews/sddm-theme.jpg)
-
----
 
 
 
