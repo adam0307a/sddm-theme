@@ -3,7 +3,7 @@
 Modern, animated SDDM login theme with glassmorphism design.
 
 <p align="center">
-  <img src="https://github.com/adam0307a/sddm-theme/assets/screenshot.png" alt="Glassmorphic SDDM Theme" width="100%"/>
+  <img src="https://github.com/adam0307a/sddm-theme/Previews/sddm-theme.jpg" alt="Glassmorphic SDDM Theme" width="100%"/>
 </p>
 
 ---
