@@ -1,4 +1,18 @@
-# 🎨 GLASSMORPHIC SDDM THEME - PROJE ÖZETİ
+# 🎨 Glassmorphic SDDM Theme
+
+Modern, animated SDDM login theme with glassmorphism design.
+
+<p align="center">
+  <img src="https://github.com/adam0307a/sddm-theme/assets/screenshot.png" alt="Glassmorphic SDDM Theme" width="100%"/>
+</p>
+
+---
+
+## 📸 Preview
+
+![Theme Screenshot](https://github.com/adam0307a/sddm-theme/blob/main/Previews/PartialBlur.png)
+
+---
 
 ## ✅ TAMAMLANAN ÇALIŞMALAR
 
