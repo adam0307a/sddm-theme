@@ -32,6 +32,7 @@ Column {
     Layout.fillWidth: true
 
     property bool failed
+    property int sessionIndex: sessionModel.lastIndex
 
     Item {
         id: usernameField
@@ -614,7 +615,7 @@ Column {
 
             onClicked: {
                 rippleAnimation.start()
-                config.AllowBadUsernames == "false" ? sddm.login(username.text.toLowerCase(), password.text, sessionModel.lastIndex) : sddm.login(username.text, password.text, sessionModel.lastIndex)
+                config.AllowBadUsernames == "false" ? sddm.login(username.text.toLowerCase(), password.text, sessionIndex) : sddm.login(username.text, password.text, sessionIndex)
             }
             Keys.onReturnPressed: clicked()
             Keys.onEnterPressed: clicked()
